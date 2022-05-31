@@ -44,8 +44,8 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20522087      | Nguyễn Nhật Trường     |https://github.com/truong11062002                     |20522087@gm.uit.edu.vn   |
-| 2      | 20520481      | Lê Trương Ngọc Hải     |https://github.com/Ceci-june                          |20520481@gm.uit.edu.vn   |
-| 3      | 20520355      | Lê Thị Phương Vy       |                                                      |20520355@gm.uit.edu.vn   |
+| 2      | 20520481      | Lê Trương Ngọc Hải     |                                                      |20520481@gm.uit.edu.vn   |
+| 3      | 20520355      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |20520355@gm.uit.edu.vn   |
 | 4      | 20520309      | Lại Chí Thiện          |                                                      |20520309@gm.uit.edu.vn   |
 | 5      | 20520731      | Trần Thị Mỹ Quyên      |                                                      |20520731@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
