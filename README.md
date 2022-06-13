@@ -50,5 +50,5 @@
 | 5      | 20520731      | Trần Thị Mỹ Quyên      |                                                      |20520731@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: Face Mask Detection
+1. Tên đồ án:Real-time Face Mask Detection
 
