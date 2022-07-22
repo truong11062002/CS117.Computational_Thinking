@@ -53,7 +53,8 @@
 1. Tên đồ án: Real-time Face Mask Detection
 
 ## Demo
-Real-time Face Mask Detection with video: https://www.youtube.com/watch?v=fmzTxK441-g
-Real-time Face Mask Detection with camera: https://youtube.com/shorts/XBiuWnZkVts?feature=share
+* Real-time Face Mask Detection with **video**: https://www.youtube.com/watch?v=fmzTxK441-g
+
+* Real-time Face Mask Detection with **camera**: https://youtube.com/shorts/XBiuWnZkVts?feature=share
 
 
