@@ -55,6 +55,11 @@
 ## Demo
 * Real-time Face Mask Detection with **video**: https://www.youtube.com/watch?v=fmzTxK441-g
 
+https://user-images.githubusercontent.com/74360292/183122705-c6d52fb4-1482-4dbb-a187-bad3f653c215.mp4
+
+
 * Real-time Face Mask Detection with **camera**: https://youtube.com/shorts/XBiuWnZkVts?feature=share
+
+https://user-images.githubusercontent.com/74360292/183122872-27e9d918-fd90-447e-affe-beac313745d5.mp4
 
 
